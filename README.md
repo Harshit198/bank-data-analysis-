@@ -1,5 +1,5 @@
-
 # 🏦 Bank Data Analytics Project (SQL + Power BI)
+<img width="1416" height="798" alt="Screenshot 2025-10-23 133530" src="https://github.com/user-attachments/assets/aafb9f95-5791-4b1c-bb41-01e9cd703c0f" />
 
 ## 📘 Overview
 This project focuses on analyzing a bank’s customer and financial data using **MySQL** for data management and **Power BI** for visualization.  
